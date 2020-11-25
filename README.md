@@ -4,5 +4,5 @@ Running Locally
 2. Install all required npm packages by running npm install
 3. Start the application by running npm start
 
-# Nots
+# Notes
 * React Hook + Redux
